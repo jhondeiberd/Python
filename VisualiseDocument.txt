@@ -39,7 +39,6 @@ urlpatterns = [
     path('home/', views.home),
 ]
 
-
  http://127.0.0.1:8000/home
 
 ---------------------------------------------------
@@ -195,9 +194,7 @@ def count(request):
 {% endfor %}
 </h3>
 
- http://127.0.0.1:8000/homepage  
-
-
+http://127.0.0.1:8000/homepage
 
 
 
